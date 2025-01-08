@@ -5,7 +5,7 @@ This is an advance backend application with rest apis built with the powerfull t
 
 ---
 
-## **Live Demo** : 
+## **Live Demo** : https://level2-assignment03.vercel.app/
 
 ---
 
@@ -127,8 +127,8 @@ This is an advance backend application with rest apis built with the powerfull t
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/theabsparrow/Assignment-three.git
-   cd Assignment-three
+   git clone https://github.com/munia121/Level2-Assignment03
+   cd Assignment03
    ```
 
 2. **Install Dependencies:**
@@ -152,7 +152,7 @@ This is an advance backend application with rest apis built with the powerfull t
    ```bash
    npm run dev
    ```
-   The server will start at `http://localhost:3000`.
+   The server will start at `http://localhost:4000`.
 
 to compile the files in java script in dist folder
 
